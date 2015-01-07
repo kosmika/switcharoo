@@ -32,9 +32,7 @@
     "snoode": "^0.1.10",
     "switcharoo-plugin-core": "0.4.8",
     "switcharoo-plugin-metrics": "0.2.0",
-    "switcharoo-plugin-ads": "0.2.1"
-  },
-  "devDependencies": {
+    "switcharoo-plugin-ads": "0.2.1",
     "6to5-browserify": "git+https://github.com/ajacksified/6to5-browserify.git#v1.2.0-a",
     "browserify": "^6.3.2",
     "exorcist": "^0.1.6",
